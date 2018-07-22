@@ -1,2 +1,1 @@
-# DemoBorland
-Demo borland otomasyon sitesidir.
+# git-deneme
